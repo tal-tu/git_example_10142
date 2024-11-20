@@ -1,3 +1,3 @@
-str = "Hello World, today is Wednsday"
+str = "Hello World, today is THursday!"
 
 print(f"{str}")
